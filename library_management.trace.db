@@ -1,0 +1,3 @@
+2026-11-21 20:57:57.226456+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "books" not found (this database is empty); SQL statement:
+SELECT 1 FROM books LIMIT 1 [42104-224]
